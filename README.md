@@ -1,1 +1,1 @@
-Arquivo criado no VS Code para imprimir na tela a frase "Hello World"
+Arquivo criado no VS Code, que imprimir na tela a frase "Hello World".
